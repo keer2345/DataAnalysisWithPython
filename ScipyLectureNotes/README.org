@@ -1,1 +1,5 @@
 * [[https://www.scipy-lectures.org/][Scipy Lecture Notes]]
+
+** [[https://www.scipy-lectures.org/intro/index.html][Getting started with Python for science]]
+1. Python scientific computing ecosystem
+2.
