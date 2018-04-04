@@ -1,0 +1,3 @@
+* Data Analysis with Python
+
+** [[http://www.scipy-lectures.org/][Scipy Lecture Notes]]
