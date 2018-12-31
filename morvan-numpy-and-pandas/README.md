@@ -14,5 +14,7 @@
 ## 14. [pandas 处理丢失数据](https://www.youtube.com/watch?v=H9jqCR4z7Pw&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4&index=14)
 ## 15. [pandas 导入导出](https://www.youtube.com/watch?v=Vb2aR_t957E&index=15&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4)
 ## 16. [pandas 合并 contact](https://www.youtube.com/watch?v=DcyFh2m3g6c&index=16&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4)
+## 17. [pandas 合并 merge](https://www.youtube.com/watch?v=Y2xmMG_jXnc&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4&index=17)
+## 18. [pandas plot](https://www.youtube.com/watch?v=SCMLObsel5I&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4&index=18)
 
 
