@@ -1,9 +1,20 @@
 # Data Analysis with Python
 
 # Environment Configuration
-- [Emacs – The Best Python Editor?](https://realpython.com/emacs-the-best-python-editor)
+
+[My Emacs's Configuration](https://github.com/keer2345/keer-emacs/blob/master/lisp/lang-python.el)
+
+- [Python environment with Pipenv, Jupyter, and EIN](https://matthewbilyeu.com/blog/python-environment-with-pipenv-jupyter-and-ein/)
 - [emacs-ipython-notebook](https://github.com/millejoh/emacs-ipython-notebook)
 - [Turning emacs into a Python IDE](https://gist.github.com/widdowquinn/987164746810f4e8b88402628b387d39#turning-emacs-into-a-python-ide)
+
+### EIN Usage
+确保在 `python-mode` 模式下：
+- `ein:jupyter-server-start` 启动之后在浏览器访问 http://localhost:8888/tree ，就可以看到 Jupyter 页面
+- `ein:jupyter-server-stop`
+- `ein:notebooklist-login` 登陆授权，以便后续操作
+- `ein:notebook-open`
+
 
 ### [Scipy Lecture Notes](https://github.com/keer2345/DataAnalysisWithPython/tree/master/ScipyLectureNotes)
 - [book](http://www.scipy-lectures.org/)
