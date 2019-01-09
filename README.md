@@ -15,6 +15,8 @@
 - `ein:notebooklist-login` 登陆授权，以便后续操作
 - `ein:notebook-open`
 
+### Official Documentation
+- [pandas](https://github.com/keer2345/DataAnalysisWithPython/tree/master/official-documentation/pandas)
 
 ### [Scipy Lecture Notes](https://github.com/keer2345/DataAnalysisWithPython/tree/master/ScipyLectureNotes)
 - [book](http://www.scipy-lectures.org/)
