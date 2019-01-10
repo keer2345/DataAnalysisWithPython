@@ -17,6 +17,8 @@
 
 ### Official Documentation
 - [pandas](https://github.com/keer2345/DataAnalysisWithPython/tree/master/official-documentation/pandas)
+- [Statsmodels](https://github.com/keer2345/DataAnalysisWithPython/tree/master/official-documentation/pandas)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
 ### [Scipy Lecture Notes](https://github.com/keer2345/DataAnalysisWithPython/tree/master/ScipyLectureNotes)
 - [book](http://www.scipy-lectures.org/)
