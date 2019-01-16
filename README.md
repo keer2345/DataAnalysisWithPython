@@ -27,6 +27,7 @@
 ### [Morvan numpy & pandas](https://github.com/keer2345/DataAnalysisWithPython/tree/master/morvan-numpy-and-pandas)
 
 # Deep Learning
+### [Python code for Artificial: Intelligence:Foundations-of-Computational-Agents](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Foundations-of-Computational-Agents)
 ### [100-Days-Of-ML-Code](https://github.com/keer2345/DataAnalysisWithPython/tree/master/100-Days-Of-ML-Code)
 ### [Grokkng Deep Learning](https://github.com/keer2345/DataAnalysisWithPython/tree/master/grokking-deep-learning)
 - [book](https://livebook.manning.com/#!/book/grokking-deep-learning/welcome/v-12/)
