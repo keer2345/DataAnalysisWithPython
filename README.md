@@ -13,6 +13,13 @@
 ## Jupyter Usage
 [如何优雅地使用 Jupyter](https://www.zhihu.com/question/59392251)
 
+Jupyter NBExtensions 的安装配置：
+```
+pip install jupyter_nbextensions_configurator jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
+```
+
 ## EIN Usage
 确保在 `python-mode` 模式下：
 - `ein:jupyter-server-start` 启动之后在浏览器访问 http://localhost:8888/tree ，就可以看到 Jupyter 页面
