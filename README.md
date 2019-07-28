@@ -45,3 +45,4 @@ jupyter nbextensions_configurator enable --user
 - [book](https://livebook.manning.com/#!/book/grokking-deep-learning/welcome/v-12/)
 
 ### [Programming-Collective-Intelligence](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Programming-Collective-Intelligence)
+### [Data Science with Python and Dask](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Data-Science-with-Python-and-Dask)
