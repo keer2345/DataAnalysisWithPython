@@ -8,7 +8,7 @@
     - About the author
     - About this book
     - License
-1. Introduction
+1. [Introduction](ch02-Introduction.ipynb)
     - Simple example
     - Readability vs speed
 1. Anatomy of an array
