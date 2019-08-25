@@ -1,6 +1,6 @@
-* [[https://www.scipy-lectures.org/][Scipy Lecture Notes]]
+* [[http://www.scipy-lectures.org/][Scipy Lecture Notes]]
 
-** [[https://www.scipy-lectures.org/intro/index.html][Getting started with Python for science]]
+** [[http://www.scipy-lectures.org/intro/index.html][Getting started with Python for science]]
 1. [[https://github.com/keer2345/DataAnalysisWithPython/blob/master/ScipyLectureNotes/chapter01/01_Python_scientific_computing_ecosystem.ipynb][Python scientific computing ecosystem]] [[http://nbviewer.jupyter.org/github/keer2345/DataAnalysisWithPython/blob/master/ScipyLectureNotes/chapter01/01_Python_scientific_computing_ecosystem.ipynb][↗]]
 2. [[https://github.com/keer2345/DataAnalysisWithPython/blob/master/ScipyLectureNotes/chapter02/02_The_Python_language.ipynb][The Python language]] [[http://nbviewer.jupyter.org/github/keer2345/DataAnalysisWithPython/blob/master/ScipyLectureNotes/chapter02/02_The_Python_language.ipynb][↗]]
 3. NumPy: creating and manipulating numerical data
