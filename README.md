@@ -37,12 +37,17 @@ jupyter nbextensions_configurator enable --user
 ### [Morvan numpy & pandas](https://github.com/keer2345/DataAnalysisWithPython/tree/master/morvan-numpy-and-pandas)
 
 # Deep Learning
-### [Scipy Lecture Notes](https://github.com/keer2345/DataAnalysisWithPython/tree/master/ScipyLectureNotes)
-- [book](http://www.scipy-lectures.org/)
-### [Artificial Intelligence:Foundations-of-Computational-Agents](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Foundations-of-Computational-Agents)
-### [100-Days-Of-ML-Code](https://github.com/keer2345/DataAnalysisWithPython/tree/master/100-Days-Of-ML-Code)
-### [Grokkng Deep Learning](https://github.com/keer2345/DataAnalysisWithPython/tree/master/grokking-deep-learning)
-- [book](https://livebook.manning.com/#!/book/grokking-deep-learning/welcome/v-12/)
+- [_Scipy Lecture Notes_](https://github.com/keer2345/DataAnalysisWithPython/tree/master/ScipyLectureNotes)
+    - [book](http://www.scipy-lectures.org/)
+- [_Artificial Intelligence:Foundations-of-Computational-Agents_](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Foundations-of-Computational-Agents)
+- [_100-Days-Of-ML-Code_](https://github.com/keer2345/DataAnalysisWithPython/tree/master/100-Days-Of-ML-Code)
+- [_Grokkng Deep Learning_](https://github.com/keer2345/DataAnalysisWithPython/tree/master/grokking-deep-learning)
+    - [book](https://livebook.manning.com/#!/book/grokking-deep-learning/welcome/v-12/)
 
-### [Programming-Collective-Intelligence](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Programming-Collective-Intelligence)
-### [Data Science with Python and Dask](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Data-Science-with-Python-and-Dask)
+
+- [_Programming-Collective-Intelligence_](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Programming-Collective-Intelligence)
+- [_Data Science with Python and Dask_](https://github.com/keer2345/DataAnalysisWithPython/tree/master/Data-Science-with-Python-and-Dask)
+- _Deep Learning_
+- _Python for Data Analysis_
+- _Hands-on Machine Learning with Scikit-Learn & TensorFlow_
+- _The Hunderd-page Machine Learning Book_
