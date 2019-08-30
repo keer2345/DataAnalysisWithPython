@@ -51,3 +51,7 @@ jupyter nbextensions_configurator enable --user
 - _Python for Data Analysis_
 - _Hands-on Machine Learning with Scikit-Learn & TensorFlow_
 - _The Hunderd-page Machine Learning Book_
+
+
+# Github and Others
+- [ujjwalkarn/DataSciencePython](https://github.com/keer2345/DataAnalysisWithPython/tree/master/ujjwalkarn-DataSciencePython)
