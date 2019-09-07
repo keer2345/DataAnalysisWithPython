@@ -21,3 +21,7 @@
 
 - Bibliography
 - Term Index
+
+## Answer
+- [HaelChan/NLP-with-Python-and-NLTK-Solutions](https://github.com/HaelChan/NLP-with-Python-and-NLTK-Solutions)
+- [JuliaNeumann/nltk_book_exercises](https://github.com/JuliaNeumann/nltk_book_exercises)
